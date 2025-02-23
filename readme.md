@@ -1,0 +1,30 @@
+# C# Completo : Programação Orientada a Objetos e Projetos
+Professor: Nélio Alves - **Udemy** (23/02/2025)
+
+## Seção 1: ......
+
+### 1 Visão geral do curso
+
+    ...
+
+
+
+### 2. ......
+
+### 3. .....
+
+    .............
+
+### 4. Manipulando Objetos Complexos
+
+### 5. Manipulando Objetos Complexos com funções
+
+
+### Atalhos:
+
+    CTRL + K + C : Comenta bloco de código selecionado
+    CTRL + K + U : Retira comentário do bloco selecionado
+    CTRL + K + S : Snipet que pode ser utilizaod para diversas funcionalidade.
+                    - Cria region
+                    - Clausula using
+
