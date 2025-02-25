@@ -1,7 +1,7 @@
 # C# Completo : Programação Orientada a Objetos e Projetos
 Professor: Nélio Alves - **Udemy** (23/02/2025)
 
-## Seção 1: ......
+## Seção 1: Apresentação do curso e orientações
 
 #### 1 Visão geral do curso
 
