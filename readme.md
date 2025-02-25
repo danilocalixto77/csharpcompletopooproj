@@ -3,11 +3,14 @@ Professor: Nélio Alves - **Udemy** (23/02/2025)
 
 ## Seção 1: ......
 
-### 1 Visão geral do curso
+#### 1 Visão geral do curso
 
-    ...
+Pilares do curso:
 
-
+- OOP 
+- C#
+- Tecnologias
+- Teoria+Prática: execícios reais.
 
 ### 2. ......
 
