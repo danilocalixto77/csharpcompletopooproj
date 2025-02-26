@@ -12,14 +12,14 @@ Pilares do curso:
 - Tecnologias
 - Teoria+Prática: execícios reais.
 
-### 2. O que estudar para me tornar um desenvolvedor? 
+#### 2. O que estudar para me tornar um desenvolvedor? 
+
+#### 3. Será que preciso fazer um curso de Lógica? 
 
 
-### 3. .....
 
-    .............
 
-### 4. Manipulando Objetos Complexos
+#### 4. Manipulando Objetos Complexos
 
 ### 5. Manipulando Objetos Complexos com funções
 
