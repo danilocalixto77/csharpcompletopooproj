@@ -12,7 +12,8 @@ Pilares do curso:
 - Tecnologias
 - Teoria+Prática: execícios reais.
 
-### 2. ......
+### 2. O que estudar para me tornar um desenvolvedor? 
+
 
 ### 3. .....
 
