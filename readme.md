@@ -22,7 +22,20 @@ Prova teste para avaliação da necessida de fazer um curso de lógica.
 
 #### 4. Visão geral do capítulo
 
-### 5. Manipulando Objetos Complexos com funções
+#### 5. Material de apoio do capítulo
+
+	02-introducao-csharp-dotnet.pdf
+	02-introducao-csharp-dotnet(para-anotacoes).pdf
+
+#### 6. C# e .NET
+
+.NET 
+- BCL - Base Class Library
+- CLR - Common Language Runtime(Máquina Virtual)
+
+#### 7. proxima aula...
+
+
 
 
 ### Atalhos:
