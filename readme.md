@@ -18,8 +18,9 @@ Pilares do curso:
 
 Prova teste para avaliação da necessida de fazer um curso de lógica.
 
+## Seção 2: Introdução a C# e .NET
 
-#### 4. Manipulando Objetos Complexos
+#### 4. Visão geral do capítulo
 
 ### 5. Manipulando Objetos Complexos com funções
 
