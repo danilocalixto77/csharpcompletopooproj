@@ -12,11 +12,11 @@ Pilares do curso:
 - Tecnologias
 - Teoria+Prática: execícios reais.
 
-#### 2. O que estudar para me tornar um desenvolvedor? 
+#### 2. O que estudar para me tornar um desenvolvedor?
 
-#### 3. Será que preciso fazer um curso de Lógica? 
+#### 3. Será que preciso fazer um curso de Lógica?
 
-
+Prova teste para avaliação da necessida de fazer um curso de lógica.
 
 
 #### 4. Manipulando Objetos Complexos
