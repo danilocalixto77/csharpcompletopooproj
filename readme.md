@@ -33,7 +33,9 @@ Prova teste para avaliação da necessida de fazer um curso de lógica.
 - BCL - Base Class Library
 - CLR - Common Language Runtime(Máquina Virtual)
 
-#### 7. proxima aula...
+#### 7. Compilação e interpretação
+
+C# Compilação JIT (Just in Time)
 
 
 
