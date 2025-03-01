@@ -37,6 +37,40 @@ Prova teste para avaliação da necessida de fazer um curso de lógica.
 
 C# Compilação JIT (Just in Time)
 
+#### 8. Estrutura de uma aplicação C#
+
+A aplicação é composta por diversas classes.
+
+O agraupamento dessas classes podem ser feitas através de namespace, que é o agrupamento lógico de classes.
+
+Como classes:
+
+    Entities: Entidades 
+    Services: Serviços
+    Repositories: Repositório de dados
+
+**Assembly** é um build, representado por  uma (DLL ou EXE). agrupamento FÍSICO de classes através do build.
+
+**Aplicação** que seria o agrupamento de vários assenblys relacionados.
+
+No Visual Studio ainda há o conceito de:
+
+    Solution
+    Project
+
+#### 9. Instalação do Visual Studio Community
+
+#### 10. Primeiro programa C# no Visual Studio
+
+#### 11. Estrutura básica de um programa C#
+
+
+
+    
+
+
+
+
 
 
 

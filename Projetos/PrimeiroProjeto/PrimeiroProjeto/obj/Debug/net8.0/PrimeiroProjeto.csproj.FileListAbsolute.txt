@@ -1,0 +1,15 @@
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.sourcelink.json
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\Danilo\Cursos\Udemy\CSharpCOMPLETOProgramacaoOrientadaObjetos+Projetos\Projetos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
