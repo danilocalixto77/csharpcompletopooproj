@@ -78,8 +78,23 @@ No Visual Studio ainda há o conceito de:
 
 **Classes** por convenção levam o mesmo nome do arquivo que está salvo, entretanto, isso não é obrigatório. É uma convenção e forma de identificar melhor pelo nome do arquivo as suas classes.
 
+#### 12. Dicas do Visual Studio
 
-    
+- Quebra de linhas nas chaves: Tool -> Options -> Text Editor -> C# -> Code Estiling -> New Lines
+
+    Ou pesquisa diretamente por "New Lines" que já encontra, observação idioma inglês.
+
+    Class 
+    {
+        Código... Convenção entre desenvolvedores do C#
+    }
+
+    Para:
+    Class {
+        Codigo...Maneira customizada ganha espaços entre linhas
+    }
+
+
 
 
 
@@ -94,4 +109,6 @@ No Visual Studio ainda há o conceito de:
     CTRL + K + S : Snipet que pode ser utilizaod para diversas funcionalidade.
                     - Cria region
                     - Clausula using
+    CTRL + K + D : Indentação automática.
+
 
