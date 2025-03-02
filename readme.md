@@ -64,6 +64,19 @@ No Visual Studio ainda há o conceito de:
 
 #### 11. Estrutura básica de um programa C#
 
+    using System;
+
+    namespace PrimeiroProjeto {
+
+        internal class Program {
+
+        static void Main(string[] args) {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
+
+**Classes** por convenção levam o mesmo nome do arquivo que está salvo, entretanto, isso não é obrigatório. É uma convenção e forma de identificar melhor pelo nome do arquivo as suas classes.
 
 
     
