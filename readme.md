@@ -95,6 +95,12 @@ No sub menut **New Line options for braces** desmarcar as opções deste submenu
         }
 
 
+## Seção 3: Recapitulação de Lógica e Programação usando C#
+
+#### 13. Visão geral do capítulo
+
+
+
 
 
 
