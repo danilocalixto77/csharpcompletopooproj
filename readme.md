@@ -81,18 +81,18 @@ No Visual Studio ainda há o conceito de:
 #### 12. Dicas do Visual Studio
 
 - Quebra de linhas nas chaves: Tool -> Options -> Text Editor -> C# -> Code Estiling -> New Lines
+Ou pesquisa diretamente por "New Lines" que já encontra, observação idioma inglês.
+No sub menut **New Line options for braces** desmarcar as opções deste submenu.
+    
+        Class 
+        {
+            Código... Convenção entre desenvolvedores do C#
+        }
 
-    Ou pesquisa diretamente por "New Lines" que já encontra, observação idioma inglês.
-
-    Class 
-    {
-        Código... Convenção entre desenvolvedores do C#
-    }
-
-    Para:
-    Class {
-        Codigo...Maneira customizada ganha espaços entre linhas
-    }
+        Para:
+        Class {
+            Codigo...Maneira customizada ganha espaços entre linhas
+        }
 
 
 
