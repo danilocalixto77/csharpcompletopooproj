@@ -113,6 +113,8 @@ No sub menut **New Line options for braces** desmarcar as opções deste submenu
 
 #### 20
 
+#### 21
+
 ### Atalhos:
 
     CTRL + K + C : Comenta bloco de código selecionado
