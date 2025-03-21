@@ -115,3 +115,4 @@ No sub menut **New Line options for braces** desmarcar as opções deste submenu
     CTRL + K + D : Indentação automática.
 
 
+Continuando....
