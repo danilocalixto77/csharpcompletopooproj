@@ -108,6 +108,10 @@ No sub menut **New Line options for braces** desmarcar as opções deste submenu
 
 
 #####
+
+#####
+
+----
 .....
 
 ### Atalhos:
